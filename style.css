@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 198, 132);
+    color: black;
+    margin-top: 5%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+}
+h1{
+    padding-bottom: 25px;
+}
+.luckiest-guy-regular{
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+img{
+    width: 24%;
+    box-shadow: 0px 0px 25px rgb(255, 166, 0);
+}
+.ingredientes, .preparo{
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    width: 24%;
+    border: 1px solid;
+    padding-right: 1.5%;
+    align-items: center;
+    margin: auto;
+    text-align: justify;
+}
